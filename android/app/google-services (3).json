@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76439344558",
+    "project_id": "test-5ec1b",
+    "storage_bucket": "test-5ec1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76439344558:android:d7e90a6a24fde05757643f",
+        "android_client_info": {
+          "package_name": "com.example.whattoeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76439344558-th81rnvoirpudg78p3o0uii8lj3ra87m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6hmO4wBjsn5gTOOBSQyohN5GPyqtgkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76439344558-th81rnvoirpudg78p3o0uii8lj3ra87m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
